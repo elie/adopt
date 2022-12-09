@@ -1,0 +1,8 @@
+Flask
+Flask-DebugToolbar
+Flask-SQLAlchemy
+Flask-WTF
+psycopg2-binary
+ipython
+requests
+python-dotenv
